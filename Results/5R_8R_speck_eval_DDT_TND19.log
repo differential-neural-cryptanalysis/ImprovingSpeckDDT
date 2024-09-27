@@ -1,0 +1,24 @@
+==== 5 rounds
+./../../ddt_400000_5rounds.bin
+Test 0
+ACC 0.910305    TPR 0.877144    TNR 0.943359    MSE 0.089695
+Time taken:  0.041897 seconds = 2^-4.57701 seconds
+
+==== 6 rounds
+./../../ddt_400000_6rounds.bin
+Test 0
+ACC 0.758757    TPR 0.679223    TNR 0.838298    MSE 0.241243
+Time taken:  0.029095 seconds = 2^-5.10308 seconds
+
+==== 7 rounds
+./../../ddt_400000_7rounds.bin
+Test 0
+ACC 0.590738    TPR 0.542261    TNR 0.639242    MSE 0.409262
+Time taken:  0.029841 seconds = 2^-5.06656 seconds
+
+==== 8 rounds
+./../../ddt_400000_8rounds.bin
+Test 0
+ACC 0.511843    TPR 0.496152    TNR 0.527559    MSE 0.488157
+Time taken:  0.024906 seconds = 2^-5.32736 seconds
+

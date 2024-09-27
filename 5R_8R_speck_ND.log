@@ -1,0 +1,21 @@
+Testing neural distinguishers against 5 to 8 blocks in the ordinary real vs random setting
+5 rounds:
+Accuracy:  0.9275836944580078 TPR:  0.9013963274674828 TNR:  0.953622835580171 MSE: 0.05467127
+Percentage of random pairs with score higher than median of real pairs: 0.05211344755180914
+Wall time (in seconds):  6.34135103225708  = 2^ 2.6647902409783533  seconds
+
+6 rounds:
+Accuracy:  0.7875728607177734 TPR:  0.7207886984722206 TNR:  0.8544911620163357 MSE: 0.1462894
+Percentage of random pairs with score higher than median of real pairs: 2.324720006415127
+Wall time (in seconds):  6.031622648239136  = 2^ 2.592546173211474  seconds
+
+7 rounds:
+Accuracy:  0.6152362823486328 TPR:  0.5314405262293893 TNR:  0.6989010821463013 MSE: 0.23037209
+Percentage of random pairs with score higher than median of real pairs: 27.1615291081727
+Wall time (in seconds):  6.070834159851074  = 2^ 2.6018947628726803  seconds
+
+8 rounds:
+Accuracy:  0.5150737762451172 TPR:  0.5215833801664583 TNR:  0.5085927657096311 MSE: 0.24957319
+Percentage of random pairs with score higher than median of real pairs: 46.959702498087324
+Wall time (in seconds):  6.1036505699157715  = 2^ 2.609672371169874  seconds
+
